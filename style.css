@@ -369,4 +369,6 @@ letter-spacing: 1px;
     #contact h2 , #skills h2 , #about h2 , #services h2 {
         font-size: 30px;
     }
+    #contact .row img{
+    max-width: 250px;
 }
