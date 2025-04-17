@@ -372,3 +372,8 @@ letter-spacing: 1px;
     #contact .row img{
     max-width: 250px;
 }
+    @media (max-width: 360px) {
+        header .header-content img{
+            max-width: 100px;
+            margin: auto;}
+}
